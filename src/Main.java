@@ -7,8 +7,8 @@ public class Main {
         Person person1 = new Person("Julia", "9", "yy@f.ru");
         Person person2 = new Person("Vova", "8", "hj@f.ru");
         Person person3 = new Person("Glina", "6", "gd@f.ru");
-        Person person4 = new Person("Govno", "5", "13@f.ru");
-        Person person5 = new Person("Pidr", "2", "Jfg@f.ru");
+        Person person4 = new Person("Govo", "5", "13@f.ru");
+        Person person5 = new Person("Pir", "2", "Jfg@f.ru");
         Person person6 = new Person("Avas", "1", "J2@f.ru");
         Person person7 = new Person("Dimitriys", "4", "J3@f.ru");
 
